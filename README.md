@@ -1,2 +1,5 @@
 # hello-world
-Just another repository made with love
+
+Hi fellas, I'm AndreaLIFO
+
+A brand new developer
